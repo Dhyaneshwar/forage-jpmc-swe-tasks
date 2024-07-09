@@ -1,3 +1,6 @@
+# JPMC Task 2
+Starter repo for task 2 of the JPMC software engineering program
+
 ## Set up
 Just like in the last task, you need to get your local development environment up and running. Given that you completed task 1, you should already have python installed and be familiar with git.
 
